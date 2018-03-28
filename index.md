@@ -68,6 +68,9 @@ end
   <tr>
     <td colspan="2">Three</td>
   </tr>
+  <tr>
+    <th>another head</th>
+    <td>some data</td>
 </table>
 
 ### There's a horizontal rule below this.
