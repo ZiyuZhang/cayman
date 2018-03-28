@@ -71,6 +71,7 @@ end
   <tr>
     <th>another head</th>
     <td>some data</td>
+  </tr>
 </table>
 
 ### There's a horizontal rule below this.
