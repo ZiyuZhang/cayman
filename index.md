@@ -2,7 +2,7 @@
 layout: default
 ---
 
-removing cibuild
+removing release
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
