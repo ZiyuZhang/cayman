@@ -2,7 +2,7 @@
 layout: default
 ---
 
-- this unordered seed
+- this line is not displayed
 {:toc}
 
 table head text center deleted table alignment removed
