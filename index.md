@@ -2,7 +2,7 @@
 layout: default
 ---
 
-table no longer block
+table width and margin auto
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
