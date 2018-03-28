@@ -2,7 +2,7 @@
 layout: default
 ---
 
-table width and margin auto
+table head text center
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
