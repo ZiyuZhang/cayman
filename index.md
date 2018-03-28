@@ -2,7 +2,7 @@
 layout: default
 ---
 
-after removing docs
+removing .travis.yml
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
