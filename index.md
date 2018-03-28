@@ -2,7 +2,7 @@
 layout: default
 ---
 
-removing release
+removing server
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
