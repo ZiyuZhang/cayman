@@ -2,7 +2,7 @@
 layout: default
 ---
 
-table head text center
+table head text center deleted
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
