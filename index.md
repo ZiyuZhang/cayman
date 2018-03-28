@@ -62,7 +62,7 @@ end
 
 <table>
   <tr>
-    <th bgcolor=$header-bg-color>head One</th>
+    <th>head One</th>
     <th>Two</th>
   </tr>
   <tr>
