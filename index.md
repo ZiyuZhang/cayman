@@ -2,7 +2,7 @@
 layout: default
 ---
 
-removing .travis.yml
+removing bootstrap
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
