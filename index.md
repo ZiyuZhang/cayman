@@ -2,7 +2,7 @@
 layout: default
 ---
 
-removing server
+removing style.scss
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
