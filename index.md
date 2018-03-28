@@ -62,8 +62,8 @@ end
 
 <table>
   <tr>
-    <td>One</td>
-    <td>Two</td>
+    <th>head One</th>
+    <th>Two</th>
   </tr>
   <tr>
     <td colspan="2">Three</td>
