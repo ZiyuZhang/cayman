@@ -1,3 +1,6 @@
 title: My testing Cayman theme
 description: forked Cayman theme for testing how it works
 google_analytics:
+
+plugins:
+  - jekyll-toc
