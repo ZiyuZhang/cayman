@@ -1,5 +1,6 @@
 ---
 layout: default
+toc: true
 ---
 
 - this line is not displayed
