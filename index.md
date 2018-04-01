@@ -5,6 +5,12 @@ layout: default
 - this line is not displayed
 {:toc}
 
+<span>
+  * something here.
+  * something else.
+  * last item.
+</span>
+
 table head text center deleted table alignment removed
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
