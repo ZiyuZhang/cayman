@@ -8,7 +8,7 @@ layout: default
 * something here.
 * something else.
 * last item.
-{:#special}
+{:.longlists}
 
 table head text center deleted table alignment removed
 
