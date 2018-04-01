@@ -5,11 +5,9 @@ layout: default
 - this line is not displayed
 {:toc}
 
-<div id="special">
   * something here.
   * something else.
   * last item.
-</div>
 
 table head text center deleted table alignment removed
 
