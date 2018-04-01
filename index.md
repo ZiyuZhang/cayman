@@ -5,7 +5,7 @@ layout: default
 - this line is not displayed
 {:toc}
 
-<span>
+<span id="special">
   * something here.
   * something else.
   * last item.
