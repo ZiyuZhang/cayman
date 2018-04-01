@@ -44,9 +44,11 @@ end
 
 #### [](#header-4)Header 4
 
-*   This is an unordered list following a header. <br/> Two lines in this item.
+<div markdown="1">
+*   This is an unordered list following a header. <br/> Two lines in this item.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
+</div>
 
 ##### [](#header-5)Header 5
 
