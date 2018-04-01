@@ -5,9 +5,10 @@ layout: default
 - this line is not displayed
 {:toc}
 
-  * something here.
-  * something else.
-  * last item.
+* something here.
+* something else.
+* last item.
+{:#special}
 
 table head text center deleted table alignment removed
 
